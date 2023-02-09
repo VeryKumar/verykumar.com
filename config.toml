@@ -1,0 +1,5 @@
+baseURL = 'http://meerkatlabs.xyz/'
+languageCode = 'en-us'
+title = 'verykumar'
+theme = "hugo-theme-monochrome"
+
