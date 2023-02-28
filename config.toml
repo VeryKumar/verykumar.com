@@ -1,4 +1,4 @@
-baseURL = 'http://meerkatlabs.xyz/'
+baseURL = 'https://verykumar.github.io/verykumar.com'
 languageCode = 'en-us'
 title = 'verykumar'
 theme = "hugo-theme-monochrome"
